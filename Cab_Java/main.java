@@ -5,7 +5,7 @@ import java.awt.event.*;
 import java.sql.*;
 import java.util.*;
 
-class mainlistener implements ActionListener
+public class mainlistener implements ActionListener
 { 
 	public void actionPerformed(ActionEvent e) 	
 	{
